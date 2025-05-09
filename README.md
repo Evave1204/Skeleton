@@ -26,5 +26,6 @@ This visualization shows how the skeletonized tree is hierarchically segmented u
 <img src="images/Level_assignment.png" alt="Branch Levels" width="800"/>
 
 
+### License
 
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
