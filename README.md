@@ -10,13 +10,13 @@ This project focuses on **skeletonizing the vascular tree** and extracting key s
 ### Visualizations
 
 #### Skeletonization Result
-<img src="images/SKeleton.png" alt="Skeleton" width="400"/>
+<img src="images/SKeleton.png" alt="Skeleton" width="800"/>
 
 #### Length and Radius Extraction
-<img src="images/Tree_Info.png" alt="Tree Info" width="400"/>
+<img src="images/Tree_Info.png" alt="Tree Info" width="800"/>
 
 #### Branch Level Assignment
-<img src="images/Level_assignment.png" alt="Branch Levels" width="400"/>
+<img src="images/Level_assignment.png" alt="Branch Levels" width="800"/>
 
 
 
